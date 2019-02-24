@@ -866,6 +866,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 @angular/material/radio
 
+@angular/material/autocomplete
+
 @angular/material/bottom-sheet
 
 @angular/material/dialog
