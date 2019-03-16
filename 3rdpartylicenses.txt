@@ -854,9 +854,13 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
+@angular/material/checkbox
+
 @angular/material/progress-spinner
 
-@angular/material/checkbox
+@angular/material/menu
+
+@angular/material/divider
 
 @angular/material/tooltip
 
@@ -869,6 +873,8 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 @angular/material/radio
 
 @angular/material/autocomplete
+
+@angular/material/list
 
 @angular/material/bottom-sheet
 
