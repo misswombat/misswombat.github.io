@@ -874,6 +874,33 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 @angular/material/paginator
 
+@syncfusion/ej2-base
+SEE LICENSE IN license
+
+@syncfusion/ej2-angular-base
+SEE LICENSE IN license
+
+@syncfusion/ej2-popups
+SEE LICENSE IN license
+
+@syncfusion/ej2-inputs
+SEE LICENSE IN license
+
+@syncfusion/ej2-dropdowns
+SEE LICENSE IN license
+
+@syncfusion/ej2-data
+SEE LICENSE IN license
+
+@syncfusion/ej2-lists
+SEE LICENSE IN license
+
+@syncfusion/ej2-buttons
+SEE LICENSE IN license
+
+@syncfusion/ej2-angular-dropdowns
+SEE LICENSE IN license
+
 @angular/material/list
 
 @angular/material/tabs
